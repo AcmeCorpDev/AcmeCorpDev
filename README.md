@@ -18,6 +18,8 @@ Please don't hesitate to contact me, if you need any help from me.
 
 If you have some question about smart contract project, Please mail here.
 
+**xanderjennings8@gmail.com**
+
 You can get help from me quickly.
 
 You are welcome!
@@ -51,6 +53,8 @@ You are welcome!
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="azure" width="40" height="40"/>
 <br><br>
+
+##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AcmeCorpDev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="AcmeCorpDev" /></p>
 
